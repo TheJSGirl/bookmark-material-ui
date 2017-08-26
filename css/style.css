@@ -1,0 +1,17 @@
+/*.nav-wrapper{
+  color: #f44336
+
+}
+
+.card-image img{
+  width: 10%;
+  height:  30%
+}
+
+nav{
+  background-color: #26a69a
+}*/
+
+.card .card-action a.b-link{
+  color: white !important; 
+}
